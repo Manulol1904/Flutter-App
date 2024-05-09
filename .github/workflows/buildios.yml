@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4.3.1
         with:
           name: ios-build
-          path: build/ios/archive/Runner.ipa
+          path: /Users/runner/work/Flutter-App/Flutter-App/build/ios/iphoneos/Runner.app.
